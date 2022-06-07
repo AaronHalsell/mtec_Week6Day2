@@ -1,0 +1,9 @@
+/* there were the 2 styles that had to be done in the stylesheet in order for the toggleClass to work */
+
+.boxElement {
+    background-color: #333;
+}
+
+.clicked {
+    background-color: #999;
+}
